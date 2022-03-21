@@ -8,8 +8,8 @@ This project shows the creation of simple contract in web 3.0. It uses rinkeby t
 
 This images shows that transaction occured.
 <br>
-<img src="https://github.com/harshalkolhe0/Simple-Contract-in-Web-3.0/blob/main/Images/Screenshot (127).jpg?raw=true" width="700"  height = "400">
+<img src="https://github.com/harshalkolhe0/Simple-Contract-in-Web-3.0/blob/main/Images/Screenshot (127).png?raw=true" width="700"  height = "400">
 
 This images shows the receipt.
 <br>
-<img src="https://github.com/harshalkolhe0/Simple-Contract-in-Web-3.0/blob/main/Images/Screenshot (128).jpg?raw=true" width="700"  height = "400">
+<img src="https://github.com/harshalkolhe0/Simple-Contract-in-Web-3.0/blob/main/Images/Screenshot (128).png?raw=true" width="700"  height = "400">
